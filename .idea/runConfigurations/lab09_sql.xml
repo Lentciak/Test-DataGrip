@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lab09.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/../laby/pliki/lab09.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="3c41030f-faa1-41aa-ab5a-8f8ec8adf81a" />
+    <method v="2" />
+  </configuration>
+</component>
